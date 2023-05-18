@@ -396,3 +396,4 @@ export const single_product_url = `/.netlify/functions/single-product?id=`;
 // export const single_product_url = `https://course-api.com/react-store-single-product?id=`;
 ```
 # Home-Furniture-Shop
+# Home-Furniture-Shop
